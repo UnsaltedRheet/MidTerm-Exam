@@ -43,7 +43,7 @@ Temporary Items
 .apdisk
 
 # Files created by Dev-C++
-.o
-.win
-.exe
-.layout
+*.o
+*.win
+*.exe
+*.layout
